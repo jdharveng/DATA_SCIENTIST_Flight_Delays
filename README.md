@@ -30,8 +30,8 @@ This project is part of the Openclassrooms DataScientist Curriculum together wit
 
 ## Regression Models
 > After the different types of encoding and feature engineering, we used 2 different types of regression models with regularization:
-1.Ridge
-2.Lasso
+- 1.Ridge
+- 2.Lasso
 
 > - We used the RMSE as evaluation metric of the results. We obtained a RMSE of 27.13.
 
