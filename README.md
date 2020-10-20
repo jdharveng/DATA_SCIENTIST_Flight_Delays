@@ -29,7 +29,7 @@ This project is part of the Openclassrooms DataScientist Curriculum together wit
 > - This all allowed us to decrease the amount of features from 733 features to 27.
 
 ## Regression Models
-> After the different types of encoding and feature engineering, we used 2 different types of regression models with regularization:
+> After the different types of encoding and feature engineering, we used 2 different types of linear regression models with **regularization**:
 - 1.Ridge
 - 2.Lasso
 
